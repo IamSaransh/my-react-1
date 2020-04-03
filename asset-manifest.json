@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "http//Sonny1314.github.io/my-react-1/static/css/main.4f797c4d.chunk.css",
-    "main.js": "http//Sonny1314.github.io/my-react-1/static/js/main.cee3f27f.chunk.js",
-    "main.js.map": "http//Sonny1314.github.io/my-react-1/static/js/main.cee3f27f.chunk.js.map",
+    "main.js": "http//Sonny1314.github.io/my-react-1/static/js/main.06b032ce.chunk.js",
+    "main.js.map": "http//Sonny1314.github.io/my-react-1/static/js/main.06b032ce.chunk.js.map",
     "runtime-main.js": "http//Sonny1314.github.io/my-react-1/static/js/runtime-main.34a2a965.js",
     "runtime-main.js.map": "http//Sonny1314.github.io/my-react-1/static/js/runtime-main.34a2a965.js.map",
-    "static/js/2.c2fd09c5.chunk.js": "http//Sonny1314.github.io/my-react-1/static/js/2.c2fd09c5.chunk.js",
-    "static/js/2.c2fd09c5.chunk.js.map": "http//Sonny1314.github.io/my-react-1/static/js/2.c2fd09c5.chunk.js.map",
+    "static/js/2.3b44c599.chunk.js": "http//Sonny1314.github.io/my-react-1/static/js/2.3b44c599.chunk.js",
+    "static/js/2.3b44c599.chunk.js.map": "http//Sonny1314.github.io/my-react-1/static/js/2.3b44c599.chunk.js.map",
     "index.html": "http//Sonny1314.github.io/my-react-1/index.html",
-    "precache-manifest.d7833786f595cbb248f3b9d8da62c1a3.js": "http//Sonny1314.github.io/my-react-1/precache-manifest.d7833786f595cbb248f3b9d8da62c1a3.js",
+    "precache-manifest.337b42c7ccfc3629d4643cea94b0e78a.js": "http//Sonny1314.github.io/my-react-1/precache-manifest.337b42c7ccfc3629d4643cea94b0e78a.js",
     "service-worker.js": "http//Sonny1314.github.io/my-react-1/service-worker.js",
     "static/css/main.4f797c4d.chunk.css.map": "http//Sonny1314.github.io/my-react-1/static/css/main.4f797c4d.chunk.css.map",
-    "static/js/2.c2fd09c5.chunk.js.LICENSE.txt": "http//Sonny1314.github.io/my-react-1/static/js/2.c2fd09c5.chunk.js.LICENSE.txt",
+    "static/js/2.3b44c599.chunk.js.LICENSE.txt": "http//Sonny1314.github.io/my-react-1/static/js/2.3b44c599.chunk.js.LICENSE.txt",
     "static/media/logo.png": "http//Sonny1314.github.io/my-react-1/static/media/logo.73a26ff5.png",
     "static/media/payment.png": "http//Sonny1314.github.io/my-react-1/static/media/payment.e931a86c.png",
     "static/media/return.png": "http//Sonny1314.github.io/my-react-1/static/media/return.e83771f4.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.34a2a965.js",
-    "static/js/2.c2fd09c5.chunk.js",
+    "static/js/2.3b44c599.chunk.js",
     "static/css/main.4f797c4d.chunk.css",
-    "static/js/main.cee3f27f.chunk.js"
+    "static/js/main.06b032ce.chunk.js"
   ]
 }
